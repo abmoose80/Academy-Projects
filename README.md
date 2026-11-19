@@ -1,4 +1,20 @@
 # Academy-Projects
+
+Users
+  |
+Internet
+  |
+Load Balancer
+  |
++-------------+
+|             |
+Web Server  Web Server
+|             |
++-------------+
+      |
+   Database
+
+
 Cloud and AI Projects
 
 
